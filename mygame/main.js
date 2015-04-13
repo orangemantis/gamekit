@@ -1,7 +1,7 @@
 (function(){
-/* Add your code below */
+/* Add your code below. Do not touch this or the code above*/
     
-/*alert("Hello World");*/
+alert("Hello World");
     
-/* Do not touch the code below*/
+/* Do not touch this or the code below*/
 })();

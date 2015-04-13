@@ -1,4 +1,4 @@
-var gameTitle = "The Lengend of Helga";
+var gameTitle = "The Legend of Helga";
 var intro = "The princess has been kidknapped, you must save her!";
 var playerName = "";
 

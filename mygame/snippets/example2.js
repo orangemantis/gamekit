@@ -1,6 +1,6 @@
 /* Important game variable */
 var myName = "Zultan Swack";
-var title = "The Legend of Princess Helga";
+var title = "The Legend of Helga";
 var playerName = "";
 
 var screen1Text = "Please enter your name:";
@@ -8,6 +8,6 @@ var screen1Text = "Please enter your name:";
 alert(title);
 playerName = prompt(screen1Text);
 if (!playerName) {
-    alert("You must enter a name");
+    alert("You must enter a name!");
     playerName = prompt(screen1Text);
 }

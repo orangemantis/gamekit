@@ -3,6 +3,6 @@ function myTest(name){
         alert("No name added.");
     }
     else {
-        alert("A name was added");
+        alert("A name was added.");
     }
 }
